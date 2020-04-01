@@ -1,13 +1,32 @@
 const CHINESE = "chinese";
-const GERMAN = "german";
 const FRENCH = "french";
-const RUSSIAN = "russian";
 const CZECH = "czech";
 const POLISH = "polish";
 const ICELANDIC = "icelandic";
-const ESTONIAN = "estonian";
+
+
+const GERMAN = "german";
+const RUSSIAN = "russian";
+
+const ARABIC = "arabic";
+const AZERBAIJANI = "azerbaijani";
+const FARSI = "farsi";
+const BENGALI = "bengali";
+const GUJARATI = "gujarati";
+const HINDI = "hindi";
+const KANNADA = "kannada";
+const TELUGU = "telugu";
 
 const pluralMap = {
+  fa: FARSI,
+  ar: ARABIC,
+  az: AZERBAIJANI,
+  bn: BENGALI,
+  gu: GUJARATI,
+  hi: HINDI,
+  kn: KANNADA,
+  te: TELUGU,
+  
   id: CHINESE,
   ja: CHINESE,
   ko: CHINESE,

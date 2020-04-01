@@ -2,6 +2,30 @@ const pluralTypes = {
   chinese(n) {
     return 0;
   },
+  arabic(n) {
+    return 0;
+  },
+  azerbaijani(n) {
+    return 0;
+  },
+  farsi(n) {
+    return 0;
+  },
+  bengali(n) {
+    return 0;
+  },
+  gujarati(n) {
+    return 0;
+  },
+  hindi(n) {
+    return 0;
+  },
+  kannada(n) {
+    return 0;
+  },
+  telugu(n) {
+    return 0;
+  },
   german(n) {
     return n !== 1 ? 1 : 0;
   },
