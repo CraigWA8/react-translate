@@ -37,7 +37,7 @@ const pluralMap = {
 
   da: GERMAN,
   de: GERMAN,
-  en: GERMAN,
+  en: ENGLISH,
   es: GERMAN,
   fi: GERMAN,
   el: GERMAN,
